@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Master Chef</string>
+    <string name="welcome_guest">Welcome, guest</string>
+</resources>
